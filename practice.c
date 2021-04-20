@@ -20,10 +20,10 @@ int main()
 
         printf("Now printing the answers of 2X2 Determinant");
         printf("The value of Delta =  %d", delta);
-        printf("The value of Delta1 %d", delta1);
-        printf("The value of Delta2 %d", delta2);
+        printf("The value of Delta1 = %d", delta1);
+        printf("The value of Delta2 = %d", delta2);
         printf("The value of x =  %d", x);
-        printf("The value of %d", y);
+        printf("The value of y = %d", y);
 
 
     return 0;
