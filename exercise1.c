@@ -34,6 +34,9 @@ scanf("%d", &a);
         printf(" %d ", a );
         printf("x %d",num );
         printf("= %d\n", sum);
+        //  Or you can just write this one line
+        //printf(" %d X %d = %d \n", a, num, a*num );
+        // just write %d or any identifier in dopuble corts of printf then after , initial the variable number by number in those %d
         
         
     } while (num<10);
